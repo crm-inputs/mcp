@@ -1,0 +1,12 @@
+{
+  "name": "addtocrm",
+  "description": "Add to CRM for Claude Code: find work contact details and add people and companies to your own CRM from the conversation.",
+  "owner": { "name": "Add to CRM", "url": "https://addtocrm.com" },
+  "plugins": [
+    {
+      "name": "add-to-crm",
+      "source": "./plugins/add-to-crm",
+      "description": "Find work contact details and add people and companies to your own CRM from the conversation. Works with 29+ CRMs."
+    }
+  ]
+}

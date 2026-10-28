@@ -1,0 +1,13 @@
+{
+  "name": "add-to-crm",
+  "version": "1.0.0",
+  "description": "Find work contact details and add people and companies to your own CRM.",
+  "mcpServers": {
+    "add-to-crm": {
+      "httpUrl": "https://mcp.addtocrm.com/mcp",
+      "oauth": {
+        "enabled": true
+      }
+    }
+  }
+}

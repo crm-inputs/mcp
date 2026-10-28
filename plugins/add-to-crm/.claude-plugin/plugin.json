@@ -1,0 +1,13 @@
+{
+  "name": "add-to-crm",
+  "version": "1.0.0",
+  "description": "Find work contact details and add people and companies to your own CRM from the conversation. Works with 29+ CRMs.",
+  "author": { "name": "Add to CRM", "url": "https://addtocrm.com" },
+  "homepage": "https://addtocrm.com",
+  "documentationUrl": "https://addtocrm.com/ai",
+  "supportUrl": "https://addtocrm.com/contact",
+  "privacyPolicyUrl": "https://addtocrm.com/privacy",
+  "termsOfServiceUrl": "https://addtocrm.com/terms",
+  "license": "MIT",
+  "keywords": ["crm", "contacts", "prospecting", "sales", "enrichment"]
+}

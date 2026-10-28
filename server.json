@@ -1,0 +1,28 @@
+{
+  "$schema": "https://static.modelcontextprotocol.io/schemas/2025-12-11/server.schema.json",
+  "name": "com.addtocrm/crm",
+  "title": "Add to CRM",
+  "description": "Find work contact details and add people and companies to your own CRM.",
+  "version": "1.0.0",
+  "websiteUrl": "https://addtocrm.com",
+  "repository": {
+    "url": "https://github.com/crm-inputs/mcp",
+    "source": "github",
+    "id": "1421100593"
+  },
+  "icons": [
+    {
+      "src": "https://addtocrm.com/logo512.png",
+      "mimeType": "image/png",
+      "sizes": [
+        "512x512"
+      ]
+    }
+  ],
+  "remotes": [
+    {
+      "type": "streamable-http",
+      "url": "https://mcp.addtocrm.com/mcp"
+    }
+  ]
+}

@@ -1,0 +1,11 @@
+# Notice
+
+The MIT licence in [LICENSE](LICENSE) covers the contents of **this repository only**: the registry entry, the
+Claude Code plugin and the documentation.
+
+**It grants no licence to the Add to CRM service or to the data it returns.** The service and what it returns
+are governed by the [Terms](https://addtocrm.com/terms) and described in the
+[Privacy policy](https://addtocrm.com/privacy).
+
+This note lives here, not inside `LICENSE`, so that the MIT text stays identical to the standard template: GitHub
+and the MCP directories detect a licence by matching it, and added prose makes the file read as unrecognised.

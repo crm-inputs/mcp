@@ -1,0 +1,8 @@
+{
+  "mcpServers": {
+    "add-to-crm": {
+      "type": "http",
+      "url": "https://mcp.addtocrm.com/mcp"
+    }
+  }
+}
